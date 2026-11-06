@@ -1,0 +1,5 @@
+git clone https://github.com/farmeenmehak-bit/cs101-lab-01
+cd REPOSITORY
+git remote-v
+git status
+git log--one line-5
